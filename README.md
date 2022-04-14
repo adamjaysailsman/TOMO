@@ -2,6 +2,8 @@
 
 TOMO is a wellness application that gamifies positive habit forming 
 
+![Alt text](./public/images/tomo.gif)
+
 
 ## Want to Check TOMO out?
 
