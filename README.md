@@ -1,35 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## TOMO
 
-## Getting Started
+TOMO is a wellness application that gamifies positive habit forming 
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Want to Check TOMO out?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+TOMO is a PWA (Progressive Web Application), and can be reached by visiting : https://capstone-woad-six.vercel.app/ , where you'll be prompted to sign in!
+Team TOMO took a mobile first approach when building TOMO; we highly recommend using TOMO on your mobile device, though you are more than welcome to use your device of choice!
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## The Goal
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+TOMO offers users a fun and engaging way to enter goals completed throughout the day, influenced by the extremely popular Tamagotchi game. These goals are separated into different categories of an individual's health, Mental, Physical, and Emotional. We challenge users to log goals daily, increasing the meters above our avatar Tomo to represent a job well done. By doing so, we hope users develop healthy habits from daily action.
 
-## Learn More
+When logging daily tasks, users will receive feedback depicted by floating icons above Tomo. For example, a Emotional Bar with a low value will render a heart above Tomo's head, suggesting the user to accomplish some emotional related tasks throughout the day.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# Capstone
+Health Meters will reset by end of day, allowing users to tackle new goals, with the hopes of building positive habits!
